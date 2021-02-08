@@ -4,6 +4,8 @@
 - For now, I plan to became a front-end dev and I'm improving my JS/CSS skills, so when I move on to learn a framework I will have a smooth transtion and easier path.
 - Since I develop only in Pure JavaScript, I plan to learn React JS or if the opportunity arises, learn the framework that the org is working with.
 
+- All content of my repository is made by ***me*** from the scratch. But I may have take some inspiration somewhere.
+
 ### Skills I'm improving
 - Vanilla JavaScript
 - Web APIs
