@@ -17,7 +17,7 @@
 
 - ***Overall*** it is ***"already"*** completed since it works just fine and do what it is supposed to do. But I still have better plans and implementations that i haven't learned yet how to apply it to the project. 
 
-- Briefly stating my futures plans, I plan to implement a back-end server to save all the chapters, and make a better user experience & add better readable content, like ***Last update's / New's / What's upcoming / Realese data***  
+- Briefly stating my futures plans, I plan to implement a back-end server to save all the chapters, and make a better user experience & better readable content, like ***Last update's / New's / What's upcoming / Realese data***  
 
 - You can see a more detailed explanation about it in [here](https://dotdott.github.io/novel-scan/main.html)
 
