@@ -8,6 +8,7 @@
 
 ### Skills I'm improving
 - Vanilla JavaScript
+- React
 - Web APIs
 - UI Clone //
 ***I replicate landing pages in order to improve my CSS skills***
