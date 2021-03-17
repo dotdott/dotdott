@@ -21,7 +21,7 @@
 
 - Briefly stating my futures plans, I plan to implement a back-end server to save all the chapters, and make a better user experience & better readable content, like ***Last update's / New's / What's upcoming / Realese data***  
 
-- You can see a more detailed explanation about it in [here](https://dotdott.github.io/novel-scan/main.html)
+- You can see a more detailed explanation about it in [here](https://github.com/dotdott/novel-scan)
 
 
 ### Github Activies
