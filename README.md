@@ -9,6 +9,7 @@
 - Vanilla JavaScript
 - TypeScript
 - ReactJS
+- MySQL
 - Web APIs
 - NextJS
 - UI Clone //
