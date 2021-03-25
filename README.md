@@ -15,12 +15,10 @@
 - UI Clone //
 ***I replicate landing pages in order to improve my CSS skills***
 
-### Main Project ***Still developing***
-- This is a personal project for hobby of mine, that I translate some ***professional/amateur books*** from English to Portuguese.
+### Main Project ***Simp Scan (a library books project)***
+- This is a personal project for hobby of mine, that I translate some ***asian books (japanese/korean/chinese)*** from English to Portuguese.
 
-- ***Overall*** it is ***"already"*** completed since it works just fine and do what it is supposed to do. But I still have better plans and implementations that i haven't learned yet how to apply it to the project. 
-
-- Briefly stating my futures plans, I plan to implement a back-end server to save all the chapters, and make a better user experience & better readable content, like ***Last update's / New's / What's upcoming / Realese data***  
+- Build with React and used next to set a dynamic route, to fetch new chapter and update the url, saving hardcoding a new page for each chapter.
 
 - You can see a more detailed explanation about it in [here](https://github.com/dotdott/novel-scan)
 
