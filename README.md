@@ -10,6 +10,7 @@
 - TypeScript
 - ReactJS
 - MySQL
+- Firebase
 - Web APIs
 - NextJS
 - UI Clone //
