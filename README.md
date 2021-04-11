@@ -1,8 +1,5 @@
 ### Hello, I'm Gabriel, 22 yo 👋
-- I'm new to programming and I learn by reading Docs, Googling, Practing & Checking how other people code.
-
-- I'm currently improving my React+TypeScript skills, and I plan to start learning SQL & NextJS.
-
+- **Front-end dev** learning by reading Docs, Googling, Practing & Checking how other people code.
 - All content of my repository is made by ***me*** from the scratch. But I may have take some inspiration somewhere.
 
 ### Skills I'm improving
@@ -15,6 +12,12 @@
 - NextJS
 - UI Clone //
 ***I replicate landing pages in order to improve my CSS skills***
+
+### Currently learning
+- React Native
+- Redux
+- Node/Express
+
 
 ### Main Project ***Simp Scan (a library books project)***
 - This is a personal project for hobby of mine, that I translate some ***asian books (japanese/korean/chinese)*** from English to Portuguese.
