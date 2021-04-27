@@ -28,4 +28,5 @@
 
 
 ### Github Activies
-![Gabriel Jodas](https://github-readme-stats.vercel.app/api?username=dotdott)
+![Gabriel Jodas](https://github-readme-stats.vercel.app/api?username=dotdott&show_icons=true&theme=radical)
+![Gabriel Jodas](https://github-readme-stats.vercel.app/api/top-langs/?username=dotdott&layout=compact&theme=radical)
