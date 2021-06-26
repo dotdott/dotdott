@@ -4,10 +4,10 @@
 ### Skills  :loudspeaker:
 - React :cupid:
 - Redux && Saga :cupid:
+- SASS && Styled Components :cupid:
 - TypeScript :cupid:
 - Firebase :flushed:
-- MySQL  :stuck_out_tongue_winking_eye:
-- NextJS :stuck_out_tongue_winking_eye:
+- Bootstrap :stuck_out_tongue_winking_eye:
 
 
 ### Currently learning  :pencil: 
