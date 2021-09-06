@@ -12,6 +12,7 @@
 
 ### Currently learning  :pencil: 
 - React Native :zap:
+- AdonisJS :zap:
 
 
 
