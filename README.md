@@ -2,18 +2,14 @@
 
 
 ### Skills  :loudspeaker:
-- React :cupid:
-- Redux && Saga :cupid:
-- SASS && Styled Components :cupid:
-- TypeScript :cupid:
-- Firebase :flushed:
-- Bootstrap :stuck_out_tongue_winking_eye:
-
-
-### Currently learning  :pencil: 
+- React :zap:
 - React Native :zap:
-- AdonisJS :zap:
-
+- Redux && Saga :zap:
+- TypeScript :zap:
+- SASS && Styled Components :cupid:
+- AdonisJS :cupid:
+- Firebase/Firestore :flushed:
+- Bootstrap :stuck_out_tongue_winking_eye:
 
 
 ### Socials  :link:
