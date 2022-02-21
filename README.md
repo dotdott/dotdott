@@ -6,12 +6,12 @@
 - React Native :zap:
 - Redux && Saga :zap:
 - JavaScript/TypeScript :zap:
-- SASS && Styled Components && MUI :cupid:
+- SASS && Styled Components  :cupid:
 - AdonisJS :cupid:
 - Firebase/Firestore :flushed:
 - Storybook  :flushed:
 - Jest/Testing-Library  :flushed:
-- Bootstrap :stuck_out_tongue_winking_eye:
+- Bootstrap && MUI :stuck_out_tongue_winking_eye:
 
 
 ### Socials  :link:
