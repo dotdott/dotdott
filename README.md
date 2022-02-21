@@ -5,8 +5,8 @@
 - React :zap:
 - React Native :zap:
 - Redux && Saga :zap:
-- TypeScript :zap:
-- SASS && Styled Components :cupid:
+- JavaScript/TypeScript :zap:
+- SASS && Styled Components && MUI :cupid:
 - AdonisJS :cupid:
 - Firebase/Firestore :flushed:
 - Storybook  :flushed:
