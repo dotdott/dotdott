@@ -9,6 +9,8 @@
 - SASS && Styled Components :cupid:
 - AdonisJS :cupid:
 - Firebase/Firestore :flushed:
+- Storybook  :flushed:
+- Jest/Testing-Library  :flushed:
 - Bootstrap :stuck_out_tongue_winking_eye:
 
 
