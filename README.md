@@ -1,12 +1,14 @@
-## Hello, I'm Gabriel Jodas, 23 yo :bowtie:
+## Hello, I'm Gabriel Jodas, 24 yo :bowtie:
 
 
 ### Skills  :loudspeaker:
 - React :zap:
 - React Native :zap:
 - Redux && Saga :zap:
-- JavaScript/TypeScript :zap:
+- JavaScript/TypeScript/JQuery :zap:
 - SASS && Styled Components  :cupid:
+- Java && Spring Boot :cupid:
+- MYSQL && postgreSQL :cupid:
 - AdonisJS :cupid:
 - Firebase/Firestore :flushed:
 - Storybook  :flushed:
