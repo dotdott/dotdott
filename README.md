@@ -20,7 +20,7 @@
 [![homepage][1]][2]
 
 [1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]: https://www.linkedin.com/in/gabriel-jodas-974b76128/ "redirect to linkedin"
+[2]: https://www.linkedin.com/in/gabriel-jodas/ "redirect to linkedin"
 
 ### Github Activies
 ![Gabriel Jodas](https://github-readme-stats.vercel.app/api?username=dotdott&show_icons=true&theme=radical)
